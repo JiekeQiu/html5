@@ -1,0 +1,6 @@
+/src/lib/bootstrap-sass-3.3.7
+doc/
+*.mp3
+*.zip
+#过滤lib下面的a.js
+/src/lib/a.js
